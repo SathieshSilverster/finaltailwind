@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/finaltailwind/static/css/main.f4f9f35c.chunk.css",
+    "main.js": "/finaltailwind/static/js/main.3576cb1e.chunk.js",
+    "main.js.map": "/finaltailwind/static/js/main.3576cb1e.chunk.js.map",
+    "runtime-main.js": "/finaltailwind/static/js/runtime-main.8a3c995a.js",
+    "runtime-main.js.map": "/finaltailwind/static/js/runtime-main.8a3c995a.js.map",
+    "static/js/2.615a5661.chunk.js": "/finaltailwind/static/js/2.615a5661.chunk.js",
+    "static/js/2.615a5661.chunk.js.map": "/finaltailwind/static/js/2.615a5661.chunk.js.map",
+    "static/js/3.a1e255fb.chunk.js": "/finaltailwind/static/js/3.a1e255fb.chunk.js",
+    "static/js/3.a1e255fb.chunk.js.map": "/finaltailwind/static/js/3.a1e255fb.chunk.js.map",
+    "index.html": "/finaltailwind/index.html",
+    "static/css/main.f4f9f35c.chunk.css.map": "/finaltailwind/static/css/main.f4f9f35c.chunk.css.map",
+    "static/js/2.615a5661.chunk.js.LICENSE.txt": "/finaltailwind/static/js/2.615a5661.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/finaltailwind/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a3c995a.js",
+    "static/js/2.615a5661.chunk.js",
+    "static/css/main.f4f9f35c.chunk.css",
+    "static/js/main.3576cb1e.chunk.js"
+  ]
+}
